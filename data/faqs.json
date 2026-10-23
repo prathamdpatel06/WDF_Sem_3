@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": "Account",
+    "question": "How do I create a student account?",
+    "answer": "Click Register in the top menu, fill in every required field and accept the terms. Your account is created immediately and you can log in."
+  },
+  {
+    "id": 2,
+    "category": "Account",
+    "question": "Why does my username need to be unique?",
+    "answer": "Each username and email is linked to exactly one account. The portal checks for duplicates so that your login always opens the right profile."
+  },
+  {
+    "id": 3,
+    "category": "Account",
+    "question": "I forgot my password. What should I do?",
+    "answer": "Contact the administrator through the Contact page. For security reasons the portal does not show or email existing passwords."
+  },
+  {
+    "id": 4,
+    "category": "Account",
+    "question": "Can I change my password after logging in?",
+    "answer": "Yes. Open My Profile and use the Change password form. You must enter your current password first."
+  },
+  {
+    "id": 5,
+    "category": "Account",
+    "question": "Can I change my username?",
+    "answer": "No. The username is fixed after registration. You can update your name, email, mobile number and course in My Profile."
+  },
+  {
+    "id": 6,
+    "category": "Login",
+    "question": "Why was I logged out automatically?",
+    "answer": "For security, a session ends after 15 minutes of inactivity. Log in again to continue."
+  },
+  {
+    "id": 7,
+    "category": "Login",
+    "question": "What does Remember me do?",
+    "answer": "It keeps you logged in for 7 days on the same browser. Do not tick it on shared computers."
+  },
+  {
+    "id": 8,
+    "category": "Login",
+    "question": "Why can't I open the dashboard without logging in?",
+    "answer": "The dashboard, profile and feedback pages contain personal data, so they are only available to logged-in students."
+  },
+  {
+    "id": 9,
+    "category": "Events",
+    "question": "How do I register for an event?",
+    "answer": "Login as a student, open Events, choose an event and press Register. The seat count updates immediately."
+  },
+  {
+    "id": 10,
+    "category": "Events",
+    "question": "How do I cancel my registration?",
+    "answer": "Open Events or your Dashboard and press Cancel next to the event. You will be asked to confirm first."
+  },
+  {
+    "id": 11,
+    "category": "Events",
+    "question": "What happens when an event is full?",
+    "answer": "The button shows Fully booked and new registrations are refused until a seat is free."
+  },
+  {
+    "id": 12,
+    "category": "Events",
+    "question": "Can I register for a past event?",
+    "answer": "No. Events whose date has already passed are shown as ended and cannot be registered for."
+  },
+  {
+    "id": 13,
+    "category": "Events",
+    "question": "How can I find a specific event?",
+    "answer": "Type part of the title or location in the search box. You can also filter by category and status."
+  },
+  {
+    "id": 14,
+    "category": "Technical Support",
+    "question": "Which browsers are supported?",
+    "answer": "The latest versions of Chrome, Edge, Firefox and Safari work best. Keep JavaScript enabled."
+  },
+  {
+    "id": 15,
+    "category": "Technical Support",
+    "question": "The page did not update after I saved a change. What now?",
+    "answer": "Refresh the page. Changes are stored in the database and appear after the page reloads."
+  },
+  {
+    "id": 16,
+    "category": "Technical Support",
+    "question": "Can I use the portal on a phone?",
+    "answer": "Yes. The layout adapts to phones, tablets and computers, and the menu opens with the three-line button."
+  },
+  {
+    "id": 17,
+    "category": "Technical Support",
+    "question": "How do I switch to dark mode?",
+    "answer": "Press the Dark Mode button in the header. Your choice is remembered on this browser."
+  },
+  {
+    "id": 18,
+    "category": "Feedback",
+    "question": "How do I send feedback?",
+    "answer": "Login and open Feedback. Choose a type, give a rating from 1 to 5 and write at least 10 characters."
+  }
+]

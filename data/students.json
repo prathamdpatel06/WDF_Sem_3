@@ -1,0 +1,222 @@
+[
+  {
+    "student_code": "STU202601",
+    "full_name": "Alex Morgan",
+    "username": "student",
+    "email": "student@studenthub.edu",
+    "mobile": "9876543210",
+    "department": "Computer Engineering",
+    "year_of_study": 3,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202602",
+    "full_name": "Priya Sharma",
+    "username": "priya_sharma",
+    "email": "priya.sharma@studenthub.edu",
+    "mobile": "9823456781",
+    "department": "Information Technology",
+    "year_of_study": 5,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202603",
+    "full_name": "Rahul Patel",
+    "username": "rahul_patel",
+    "email": "rahul.patel@studenthub.edu",
+    "mobile": "9712345678",
+    "department": "Computer Engineering",
+    "year_of_study": 3,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202604",
+    "full_name": "Neha Desai",
+    "username": "neha_desai",
+    "email": "neha.desai@studenthub.edu",
+    "mobile": "9898011223",
+    "department": "Electronics & Communication",
+    "year_of_study": 2,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202605",
+    "full_name": "Krish Shah",
+    "username": "krish_shah",
+    "email": "krish.shah@studenthub.edu",
+    "mobile": "9727711002",
+    "department": "Mechanical Engineering",
+    "year_of_study": 4,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202606",
+    "full_name": "Aisha Khan",
+    "username": "aisha_khan",
+    "email": "aisha.khan@studenthub.edu",
+    "mobile": "9824400112",
+    "department": "Information Technology",
+    "year_of_study": 1,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202607",
+    "full_name": "Dhruv Mehta",
+    "username": "dhruv_mehta",
+    "email": "dhruv.mehta@studenthub.edu",
+    "mobile": "9913366771",
+    "department": "Civil Engineering",
+    "year_of_study": 2,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202608",
+    "full_name": "Meera Joshi",
+    "username": "meera_joshi",
+    "email": "meera.joshi@studenthub.edu",
+    "mobile": "9650090011",
+    "department": "Chemical Engineering",
+    "year_of_study": 3,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202609",
+    "full_name": "Yash Trivedi",
+    "username": "yash_trivedi",
+    "email": "yash.trivedi@studenthub.edu",
+    "mobile": "9601234509",
+    "department": "Electrical Engineering",
+    "year_of_study": 1,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202610",
+    "full_name": "Ananya Rao",
+    "username": "ananya_rao",
+    "email": "ananya.rao@studenthub.edu",
+    "mobile": "9448812345",
+    "department": "Computer Engineering",
+    "year_of_study": 4,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202611",
+    "full_name": "Harsh Pandya",
+    "username": "harsh_pandya",
+    "email": "harsh.pandya@studenthub.edu",
+    "mobile": "9099900011",
+    "department": "Information Technology",
+    "year_of_study": 3,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202612",
+    "full_name": "Riya Singh",
+    "username": "riya_singh",
+    "email": "riya.singh@studenthub.edu",
+    "mobile": "9876001122",
+    "department": "Electronics & Communication",
+    "year_of_study": 1,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202613",
+    "full_name": "Kunal Soni",
+    "username": "kunal_soni",
+    "email": "kunal.soni@studenthub.edu",
+    "mobile": "9825510234",
+    "department": "Mechanical Engineering",
+    "year_of_study": 2,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202614",
+    "full_name": "Tanvi Bhatt",
+    "username": "tanvi_bhatt",
+    "email": "tanvi.bhatt@studenthub.edu",
+    "mobile": "9712200344",
+    "department": "Civil Engineering",
+    "year_of_study": 3,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202615",
+    "full_name": "Jay Patel",
+    "username": "jay_patel",
+    "email": "jay.patel@studenthub.edu",
+    "mobile": "9428899120",
+    "department": "Computer Engineering",
+    "year_of_study": 2,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202616",
+    "full_name": "Sneha Iyer",
+    "username": "sneha_iyer",
+    "email": "sneha.iyer@studenthub.edu",
+    "mobile": "9988776655",
+    "department": "Information Technology",
+    "year_of_study": 4,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202617",
+    "full_name": "Mihir Vora",
+    "username": "mihir_vora",
+    "email": "mihir.vora@studenthub.edu",
+    "mobile": "9737001122",
+    "department": "Electrical Engineering",
+    "year_of_study": 3,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202618",
+    "full_name": "Pooja Nair",
+    "username": "pooja_nair",
+    "email": "pooja.nair@studenthub.edu",
+    "mobile": "9845512300",
+    "department": "Chemical Engineering",
+    "year_of_study": 2,
+    "gender": "Female",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202619",
+    "full_name": "Aryan Gupta",
+    "username": "aryan_gupta",
+    "email": "aryan.gupta@studenthub.edu",
+    "mobile": "9811122233",
+    "department": "Computer Engineering",
+    "year_of_study": 1,
+    "gender": "Male",
+    "is_active": true
+  },
+  {
+    "student_code": "STU202620",
+    "full_name": "Zara Qureshi",
+    "username": "zara_qureshi",
+    "email": "zara.qureshi@studenthub.edu",
+    "mobile": "9867700456",
+    "department": "Electronics & Communication",
+    "year_of_study": 4,
+    "gender": "Female",
+    "is_active": false
+  }
+]

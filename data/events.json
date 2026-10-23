@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "24-Hour Campus Hackathon",
+    "category": "Hackathon",
+    "event_date": "2026-11-05",
+    "location": "Innovation Hub, Lab 3",
+    "seats_limit": 120,
+    "description": "A 24-hour coding marathon.",
+    "poster": "assets/images/event_hackathon.jpg",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "TechFest 2026",
+    "category": "Symposium",
+    "event_date": "2026-11-18",
+    "location": "Main Auditorium",
+    "seats_limit": 250,
+    "description": "Keynote talks and student project showcases.",
+    "poster": "assets/images/event_techfest.jpg",
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "title": "Creative Photography Workshop",
+    "category": "Workshop",
+    "event_date": "2026-10-30",
+    "location": "Media Studio B",
+    "seats_limit": 60,
+    "description": "Light, framing and basic editing.",
+    "poster": "assets/images/event_photography.jpg",
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "title": "Generative AI Seminar",
+    "category": "Seminar",
+    "event_date": "2026-11-28",
+    "location": "Seminar Hall 2",
+    "seats_limit": 150,
+    "description": "Introduction to generative AI tools.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "title": "Inter-Department Cricket Tournament",
+    "category": "Sports",
+    "event_date": "2026-12-10",
+    "location": "College Ground",
+    "seats_limit": 200,
+    "description": "Twenty-over matches between departments.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "title": "Cultural Night: Rhythm 2026",
+    "category": "Cultural",
+    "event_date": "2026-12-20",
+    "location": "Open Air Theatre",
+    "seats_limit": 400,
+    "description": "Music, dance and drama performances.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "title": "Web Development Bootcamp",
+    "category": "Workshop",
+    "event_date": "2026-12-05",
+    "location": "Computer Lab 4",
+    "seats_limit": 40,
+    "description": "Two-day bootcamp on HTML, CSS, JavaScript and PHP.",
+    "poster": null,
+    "status": "Closed"
+  },
+  {
+    "id": 8,
+    "title": "Startup Pitch Day (Past Event)",
+    "category": "Seminar",
+    "event_date": "2026-09-12",
+    "location": "Incubation Centre",
+    "seats_limit": 80,
+    "description": "Student startups pitch to mentors.",
+    "poster": null,
+    "status": "Closed"
+  },
+  {
+    "id": 9,
+    "title": "Robotics Build Night",
+    "category": "Workshop",
+    "event_date": "2026-11-12",
+    "location": "Robotics Lab",
+    "seats_limit": 30,
+    "description": "Build and race a line-following robot.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "title": "Inter-College Quiz Battle",
+    "category": "Cultural",
+    "event_date": "2026-11-22",
+    "location": "Seminar Hall 1",
+    "seats_limit": 100,
+    "description": "Team quiz on technology and general knowledge.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "title": "Cyber Security Awareness Talk",
+    "category": "Seminar",
+    "event_date": "2026-11-08",
+    "location": "Seminar Hall 2",
+    "seats_limit": 120,
+    "description": "Safe passwords, phishing and campus network safety.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "title": "Campus Clean-Up Drive",
+    "category": "Sports",
+    "event_date": "2026-10-28",
+    "location": "Main Gate Area",
+    "seats_limit": 150,
+    "description": "Community service drive on campus.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "title": "UI/UX Design Sprint",
+    "category": "Workshop",
+    "event_date": "2026-12-14",
+    "location": "Design Studio",
+    "seats_limit": 35,
+    "description": "Prototype a mobile app in one day.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "title": "Annual Sports Day 2026",
+    "category": "Sports",
+    "event_date": "2027-01-15",
+    "location": "Athletics Ground",
+    "seats_limit": 500,
+    "description": "Track and field events for all departments.",
+    "poster": null,
+    "status": "Open"
+  },
+  {
+    "id": 15,
+    "title": "Data Science Hackathon",
+    "category": "Hackathon",
+    "event_date": "2027-01-22",
+    "location": "Innovation Hub, Lab 1",
+    "seats_limit": 90,
+    "description": "Solve a real dataset problem in 12 hours.",
+    "poster": null,
+    "status": "Open"
+  }
+]
